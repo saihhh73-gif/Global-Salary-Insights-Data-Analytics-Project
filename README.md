@@ -217,10 +217,4 @@ Global-Salary-Insights/
 # 👨‍💻 Author
 
 **Sai Harshith**
-
-
-* Power BI
-* DAX
-* Data Analytics
-
 Thank you for visiting this project. Feedback and suggestions are always welcome.
